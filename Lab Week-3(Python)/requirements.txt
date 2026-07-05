@@ -1,4 +1,0 @@
-pandas
-matplotlib
-jinja2
-numpy 
